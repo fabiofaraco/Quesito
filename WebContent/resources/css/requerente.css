@@ -1,0 +1,27 @@
+body {
+	background-color:#f2f2f2;
+}
+
+th {
+	color:white;
+	background-color:#AB1515;
+}
+
+td {
+	background-color:#FFFFFF;
+	font-weight:bold;	
+}
+
+.botoesTabela {
+	width:90px;
+}
+
+.alert {
+	color:#AB1515 !important;
+	text-align:center;
+	font-size:20px;
+}
+
+label {
+	color:#AB1515;	
+}
